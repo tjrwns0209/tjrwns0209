@@ -1,18 +1,10 @@
-### Hi there 👋
-
-<!--
-**tjrwns0209/tjrwns0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-hihi
+<!-- 완료 했으면 대괄호 안에 x 넣기 -->
+# 2022-01-28-FRI 첫 시작
+## To do list 
+  + 블로그에 정리할 것
+    - [ ] mark down 
+    - [ ] React
+    - [ ] JavaScript
+    - [ ] Css
+    - [ ] HTML
+    - [ ] Python
