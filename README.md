@@ -3,6 +3,10 @@
 ## To do list 
   + 블로그에 정리할 것
     - [ ] mark down 
+      - [x] 제목
+      - [x] 인용
+      - [x] 목록
+
     - [ ] React
     - [ ] JavaScript
     - [ ] Css
