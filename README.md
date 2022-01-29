@@ -2,11 +2,7 @@
 # 2022-01-28-FRI 첫 시작
 ## To do list 
   + 블로그에 정리할 것
-    - [ ] mark down 
-      - [x] 제목
-      - [x] 인용
-      - [x] 목록
-
+    - [x] mark down 
     - [ ] React
     - [ ] JavaScript
     - [ ] Css
