@@ -8,4 +8,4 @@
     - [ ] Css
     - [ ] HTML
     - [ ] Python
-    - [ ] Git
+    - [ ] Git -> 현재 진행중
