@@ -9,4 +9,5 @@
     - HTML
     - Python
     - Git
+    - django
     - 코딩을 하면서 겪은 오류들 올리고 해결한 거 올려보기 !important
